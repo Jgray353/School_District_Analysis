@@ -19,6 +19,9 @@ With the 9th grade scores disallowed, we see a dramatic drop in overall passing 
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/top%20bar.png)
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20School%20Summary.png)
 # How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+THS is among the top schools in passing percentages for math and reading, as well as overall passing percentage. The updated analysis drops them to the middle bottom, just above the bottom 5. 
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Original%20Schools.png)
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20Schools.png)
 
 # How does replacing the ninth-grade scores affect the following:
 # Math and reading scores by grade
