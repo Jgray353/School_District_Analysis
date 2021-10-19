@@ -40,5 +40,8 @@ With 1635 total students, Thomas High School is defined as a medium sized school
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20size.png)
 
 # Scores by school type
+THS is a charter school. And again we see nominal reductions relative to math, reading, and overall passing percentages. 
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Original%20District%20Summary.png)
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20District%20Summary.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
