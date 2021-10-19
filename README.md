@@ -45,3 +45,7 @@ THS is a charter school. And again we see nominal reductions relative to math, r
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20District%20Summary.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+1. The data will now show nAn for Thomas High School 9th grade as we replaced the test scores with null since there was academic dishonesty. 
+2. Thomsa High dropped from 2nd to 8th in overall performance.
+3. We saw slight shifts across all aggregations (scores by spending, size, etc.)
+4. Thomas High School's overall passing rate went drastically down, from 91 to 65%. 
