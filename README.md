@@ -13,8 +13,10 @@ The district summary isn't really affected noticeably with the removal of the TH
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20District%20Summary.png)
 
 # How is the school summary affected?
-With the 9th grade scores disallowed, we see a dramatic drop in performance for THS, as shown in the below images. 
+With the 9th grade scores disallowed, we see a dramatic drop in overall passing for each subject for THS, as shown in the below images. 
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/top%20bar.png)
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Original%20School%20Summary.png)
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/top%20bar.png)
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20School%20Summary.png)
 # How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
