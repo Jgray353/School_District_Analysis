@@ -25,7 +25,9 @@ THS is among the top schools in passing percentages for math and reading, as wel
 
 # How does replacing the ninth-grade scores affect the following:
 # Math and reading scores by grade
-
+We see the math and reading scores as null values for THS in the updated scores by grade. The first image is for math with reading below it. 
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/New%20Math%20Scores.png)
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/New%20Reading%20Scores.png)
 # Scores by school spending
 
 # Scores by school size
