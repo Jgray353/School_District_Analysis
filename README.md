@@ -29,7 +29,7 @@ We see the math and reading scores as null values for THS in the updated scores 
 
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/New%20Math%20Scores.png)
 
-![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/New%20Reading%20Scores.png)
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/New%20Reading%20Score.png)
 
 # Scores by school spending
 
