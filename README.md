@@ -31,10 +31,13 @@ We see the math and reading scores as null values for THS in the updated scores 
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/New%20Reading%20Score.png)
 
 # Scores by school spending
-There was very little change in spending with replacing the 9th grade scores. The original school spending dataframe is below this with updated spending under that. 
+Thomas High School is in the $630 - $644 range for spending range per student. There was very little change in spending with replacing the 9th grade scores. The original school spending dataframe is below this with updated spending under that. 
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Original%20spending.png)
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/updated%20spending.png)
 # Scores by school size
+With 1635 total students, Thomas High School is defined as a medium sized school. We see minimal changes with replacing the 9th grade scores. 
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Original%20school%20size.png)
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20school%20size.png)
 
 # Scores by school type
 
