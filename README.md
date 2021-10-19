@@ -9,8 +9,8 @@ The purpose of this analysis was to use Jupyter Notebook to read in .CSV files t
 # How is the district summary affected?
 
 The district summary isn't really affected noticeably with the removal of the THS 9th grader's scores. The first image below is from the inital analysis and the second is from the updated analysis with the 9th grade THS scores disallowed. 
-![alt text]https://github.com/Jgray353/School_District_Analysis/blob/main/Original%20District%20Summary.png
-![alt text]https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20District%20Summary.png
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Original%20District%20Summary.png)
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20District%20Summary.png)
 
 # How is the school summary affected?
 
