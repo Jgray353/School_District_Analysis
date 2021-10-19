@@ -37,7 +37,6 @@ Thomas High School is in the $630 - $644 range for spending range per student. T
 # Scores by school size
 With 1635 total students, Thomas High School is defined as a medium sized school. We see minimal changes with replacing the 9th grade scores. 
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Original%20school%20size.png)
-![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20school%20size.png)
 
 # Scores by school type
 
