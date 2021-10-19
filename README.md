@@ -28,11 +28,12 @@ THS is among the top schools in passing percentages for math and reading, as wel
 We see the math and reading scores as null values for THS in the updated scores by grade. The first image is for math with reading below it. 
 
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/New%20Math%20Scores.png)
-
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/New%20Reading%20Score.png)
 
 # Scores by school spending
-
+There was very little change in spending with replacing the 9th grade scores. The original school spending dataframe is below this with updated spending under that. 
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Original%20spending.png)
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20spending.png)
 # Scores by school size
 
 # Scores by school type
