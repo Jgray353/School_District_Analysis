@@ -33,7 +33,7 @@ We see the math and reading scores as null values for THS in the updated scores 
 # Scores by school spending
 There was very little change in spending with replacing the 9th grade scores. The original school spending dataframe is below this with updated spending under that. 
 ![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Original%20spending.png)
-![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/Updated%20spending.png)
+![alt text](https://github.com/Jgray353/School_District_Analysis/blob/main/updated%20spending.png)
 # Scores by school size
 
 # Scores by school type
